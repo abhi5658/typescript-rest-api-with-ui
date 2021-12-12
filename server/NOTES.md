@@ -10,3 +10,6 @@ npm i -D @types/body-parser @types/config @types/cors @types/express @types/node
 ```sh
 npm run dev
 ```
+```sh
+npx tsc --init
+```
